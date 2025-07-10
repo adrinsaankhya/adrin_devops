@@ -1,6 +1,5 @@
 #URL
 
-https://github.com/adrinsaankhya/adrin_devops/blob/main/server-stats.sh
-
+https://roadmap.sh/projects/server-stats
 #TO RUN THE PROJET
 ./server-stats.sh
