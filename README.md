@@ -6,3 +6,4 @@ https://roadmap.sh/projects/log-archive-tool
 ### RUN WITH ANRGUEMENT
 ./log-compression.sh <file to be compresssed>
 
+./log_parser.sh < nginix log to parserd>
